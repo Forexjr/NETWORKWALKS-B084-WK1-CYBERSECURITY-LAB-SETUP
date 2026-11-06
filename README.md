@@ -53,11 +53,15 @@ The following screenshots are included in this repository as setup evidence:
 
 ### Kali Linux
 
-![Kali Linux setup](Kali%20linux%20%20.png)
+![Kali Linux setup](Kali%20linux%20.png)
+
+### Kali Linux settings
+
+![Kali Linux settings](Kali%20linux%20setting%20.png)
 
 ### Kali network settings
 
-![Kali network settings](Kali%20network%20setting%20%20.png)
+![Kali network settings](Kali%20network%20setting%20.png)
 
 ### Virtual network settings
 
