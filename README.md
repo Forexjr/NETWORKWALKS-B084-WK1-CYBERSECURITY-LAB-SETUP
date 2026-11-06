@@ -77,4 +77,4 @@ This repository is for education and authorized lab use only. You are responsibl
 
 ## 👤 Author
 
-**Ekpenyong Peace** — NetworkWalks B084, Week 1
+**Ibrahim Muazzam Abubakar** — NetworkWalks B084, Week 1
