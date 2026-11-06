@@ -62,9 +62,9 @@ The following screenshots document the lab setup:
 
 ![Kali network settings](Kali%20network%20setting%20.png)
 
-### Virtual network settings
+### VM network settings
 
-![Virtual network settings](network%20sett.png)
+![VM network settings](network%20sett.png)
 
 ## Safety Checklist
 
